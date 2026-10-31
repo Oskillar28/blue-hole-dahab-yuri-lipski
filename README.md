@@ -2,6 +2,8 @@
 
 ### Física, fisiología y cadena de errores de un accidente de buceo a 115 metros
 
+> 🇬🇧 **[English version](README.en.md)**
+
 > **Estudio divulgativo** · Autor: Óscar Ramírez Martín · Octubre 2026
 > Elaborado a partir de fuentes públicas contrastadas y de cálculos propios.
 
