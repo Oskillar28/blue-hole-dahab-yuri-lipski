@@ -11,6 +11,9 @@
 
 > ⚠️ **A note of respect.** This study deals with the real death of a 22-year-old man. It does not link to or reproduce the footage of his death and contains no photographs of him. The aim is to understand **why** it happened so that it does not happen again.
 
+> 📚 **Series of studies on diving accidents** by the same author:
+> **Dahab Blue Hole (Yuri Lipski, 2000)** (this study) · [Boesmansgat (Deon Dreyer and Dave Shaw, 1994–2005)](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · [Plura cave (Norway, 2014)](https://github.com/Oskillar28/plura-cueva-noruega) · [Vaavu cave (Maldives, 2026)](https://github.com/Oskillar28/cueva-vaavu-maldivas)
+
 ![The Dahab Blue Hole seen from the shore](https://upload.wikimedia.org/wikipedia/commons/c/c0/Dahab_Blue_Hole.jpg)
 *The Blue Hole of Dahab (Egypt). Photo: Gustavo Gerdel, CC BY-SA 4.0, via Wikimedia Commons.*
 
