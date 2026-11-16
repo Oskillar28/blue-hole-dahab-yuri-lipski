@@ -12,7 +12,7 @@
 > ⚠️ **Nota de respeto.** Este estudio trata la muerte real de una persona de 22 años. No enlaza ni reproduce la grabación de su muerte y no incluye fotografías suyas. El objetivo es entender **por qué** ocurrió, para que no vuelva a ocurrir.
 
 > 📚 **Serie de estudios sobre accidentes de buceo** del mismo autor:
-> **Blue Hole de Dahab (Yuri Lipski, 2000)** (este estudio) · [Boesmansgat (Deon Dreyer y Dave Shaw, 1994–2005)](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · [Cueva de Plura (Noruega, 2014)](https://github.com/Oskillar28/plura-cueva-noruega) · [Cueva de Vaavu (Maldivas, 2026)](https://github.com/Oskillar28/cueva-vaavu-maldivas)
+> **Blue Hole de Dahab (Yuri Lipski, 2000)** (este estudio) · [Boesmansgat (Deon Dreyer y Dave Shaw, 1994–2005)](https://github.com/Oskillar28/boesmansgat-deon-dreyer) · [Zacatón (Sheck Exley, 1994)](https://github.com/Oskillar28/zacaton-cenote-mexico) · [Cueva de Plura (Noruega, 2014)](https://github.com/Oskillar28/plura-cueva-noruega) · [Cueva de Vaavu (Maldivas, 2026)](https://github.com/Oskillar28/cueva-vaavu-maldivas)
 
 ![Vista del Blue Hole de Dahab desde la costa](https://upload.wikimedia.org/wikipedia/commons/c/c0/Dahab_Blue_Hole.jpg)
 *El Blue Hole de Dahab (Egipto). Foto: Gustavo Gerdel, CC BY-SA 4.0, vía Wikimedia Commons.*
